@@ -23,12 +23,11 @@ The two disabled `input tap` shell actions in Off Task are left out.
 
 ## Install
 
-1. If you installed "Adam's Pixel 5 App" 1.0, uninstall it first (this is a new package).
-2. Download `HondashLauncher-1.18.apk` from the [Releases](https://github.com/CARRisma1978/hondash-launcher/releases) page on the phone and open it. Allow "Install unknown apps" if asked.
-3. Open the app and tap **Grant / check root**. Allow it in the Magisk prompt.
-4. Turn the main switch on.
-5. In Tasker, turn the Hondash profile **off** so the two apps don't both run.
-6. Use **Run On now** and **Run Off now** to test. Each step is shown in the log.
+1. Download `HondashLauncher-1.18.apk` from the [Releases](https://github.com/CARRisma1978/hondash-launcher/releases) page on the phone and open it. Allow "Install unknown apps" if asked.
+2. Open the app and tap **Grant / check root**. Allow it in the Magisk prompt.
+3. Turn the main switch on.
+4. In Tasker, turn the Hondash profile **off** so the two apps don't both run.
+5. Use **Run On now** and **Run Off now** to test. Each step is shown in the log.
 
 ## Notes
 
