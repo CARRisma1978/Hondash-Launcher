@@ -23,7 +23,7 @@ The two disabled `input tap` shell actions in Off Task are left out.
 
 ## Install
 
-1. Download `HondashLauncher-1.18.apk` from the [Releases](https://github.com/CARRisma1978/hondash-launcher/releases) page on the phone and open it. Allow "Install unknown apps" if asked.
+1. Download `HondashLauncher-1.18.apk` from the [Releases](https://github.com/CARRisma1978/Hondash-Launcher/releases) page on the phone and open it. Allow "Install unknown apps" if asked.
 2. Open the app and tap **Grant / check root**. Allow it in the Magisk prompt.
 3. Turn the main switch on.
 4. In Tasker, turn the Hondash profile **off** so the two apps don't both run.
